@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\bin\Debug\net8.0\PracticeC.exe
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\bin\Debug\net8.0\PracticeC.deps.json
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\bin\Debug\net8.0\PracticeC.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\bin\Debug\net8.0\PracticeC.dll
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\bin\Debug\net8.0\PracticeC.pdb
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.dll
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\refint\PracticeC.dll
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.pdb
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\ref\PracticeC.dll
