@@ -12,3 +12,4 @@ C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\re
 C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.pdb
 C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.genruntimeconfig.cache
 C:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\ref\PracticeC.dll
+c:\Users\User\OneDrive\Escritorio\Programador Web\PracticeC#\obj\Debug\net8.0\PracticeC.sourcelink.json

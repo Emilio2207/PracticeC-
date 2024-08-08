@@ -61,6 +61,69 @@ namespace CSharpHelloC
       // Estructura Tuple
       var myTuple = ("Emi", "Ramirez", "emilioDev");
       Console.WriteLine(myTuple);
+
+      // Bucles
+      for (int index = 0; index < 10; index++)
+      {
+        Console.WriteLine(index);
+      }
+
+      foreach (var myItem in myArray)
+      {
+        Console.WriteLine(myItem);
+      }
+
+      foreach (var myItem in myDictionary)
+      {
+        Console.WriteLine(myItem);
+      }
+
+      foreach (var myItem in mySet)
+      {
+        Console.WriteLine(myItem);
+      }
+
+      // Flujos
+      if (myInt == 11 && myBool == true)
+      {
+        Console.WriteLine("El valor es 11");
+      }
+      else if (myInt == 12 || myBool == false)
+      {
+        Console.WriteLine("El valor es 12");
+      }
+      else
+      {
+        Console.WriteLine("El valor no es 11 ni 12");
+      }
+
+      // Funciones
+      MyFunction();
+      Console.WriteLine(MyFunctionWithReturn(5));
+
+      var myClass = new MyClass("Emilio");
+      myClass.myName = "emilioDev";
+      Console.WriteLine(myClass.myName);
+    }
+    static void MyFunction()
+    {
+      Console.WriteLine("Mi función");
+    }
+
+    static int MyFunctionWithReturn(int param)
+    {
+      return 10 + param;
+    }
+
+    // Clases
+    class MyClass
+    {
+      public string myName { get; set; }
+
+      public MyClass(string myName)
+      {
+        myName = myName;
+      }
     }
   }
 }
